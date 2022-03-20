@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# To Do It
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -11,14 +11,18 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+Cloud Based To-Do List.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:**
+    - Life Management
 - **Mobile:**
+    - Yes
 - **Story:**
+    - 
 - **Market:**
+    - 
 - **Habit:**
 - **Scope:**
 
