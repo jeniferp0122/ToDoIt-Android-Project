@@ -4,25 +4,33 @@ Original App Design Project - README Template
 # To Do It
 
 ## Table of Contents
+
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
 2. [Schema](#Schema)
 
 ## Overview
+
 ### Description
-Cloud Based To-Do List.
+
+Cloud Based To-Do List where users can access their List from anywhere at any time. Our app data will
 
 ### App Evaluation
+
 [Evaluation of your app across the following attributes]
+
 - **Category:**
-    - Life Management
+  - Life Management
 - **Mobile:**
-    - Yes
+  - Yes
+
 - **Story:**
-    - 
+    -
+
 - **Market:**
-    - 
+    -
+
 - **Habit:**
 - **Scope:**
 
@@ -32,41 +40,42 @@ Cloud Based To-Do List.
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+- [fill in your required user stories here]
+- ...
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+- [fill in your required user stories here]
+- ...
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+- [list first screen here]
+  - [list associated required story here]
+  - ...
+- [list second screen here]
+  - [list associated required story here]
+  - ...
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+- [fill out your first tab]
+- [fill out your second tab]
+- [fill out your third tab]
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+- [list first screen here]
+  - [list screen navigation here]
+  - ...
+- [list second screen here]
+  - [list screen navigation here]
+  - ...
 
 ## Wireframes
+
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
@@ -74,11 +83,16 @@ Cloud Based To-Do List.
 
 ### [BONUS] Interactive Prototype
 
-## Schema 
+## Schema
+
 [This section will be completed in Unit 9]
+
 ### Models
+
 [Add table of models]
+
 ### Networking
+
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
