@@ -1,6 +1,3 @@
-
-===
-
 # To Do It
 
 ## Table of Contents
