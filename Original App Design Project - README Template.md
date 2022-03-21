@@ -40,13 +40,21 @@ Cloud Based To-Do List where users can access their List from anywhere at any ti
 
 **Required Must-have Stories**
 
-- [fill in your required user stories here]
-- ...
+- User Log In
+- User Sign Up
+- Create To-Do List
+- Delete To-Do List
+- Create a To-Do List Item
+- Edit a To-Do List Item
+- Delete a To-Do List Item
+- Change status of To-Do List Item (Complete , In Progress, Pending )
+- Have Colaborative To-Do List where you can have multiple users be part of the same List
 
 **Optional Nice-to-have Stories**
 
-- [fill in your required user stories here]
-- ...
+- Set time constraint for To-Do List Item
+- Create user permission page where the Admin can configure each collaborator permissions to View, Edit, or Delete
+- sdsds
 
 ### 2. Screen Archetypes
 
