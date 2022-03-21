@@ -11,7 +11,7 @@
 
 ### Description
 
-Cloud Based To-Do List where users can access their List from anywhere at any time. Our app data will
+Cloud Based To-Do List where users can access their List from anywhere at any time. Our list will be able to be shared amongst collaborators so a team of people can work on the same list. The app will be able to produce personalized list to fit daily needs and change the status of each individual list item at any given point with real time update to all other collaborators on that list.
 
 ### App Evaluation
 
@@ -23,10 +23,10 @@ Cloud Based To-Do List where users can access their List from anywhere at any ti
   - Yes
 
 - **Story:**
-    -
+  - It's difficult to keep track of everything that needs to get done in a day. With the majority of people having busy schedules, I can see why it would be easy to forget something at the supermarket or maybe that surprise report your manager told you to have done by the end of the week. This app is suited so that you can keep track of the things that need to get done with out the stress of remembering.
 
 - **Market:**
-    -
+  - This application suites everyone, from a hard working student to a busy buisness executive that needs to catch up on meetings. An all in one application to help keep track of your schedule. Everyone has things to do, hence this app is for everyone.
 
 - **Habit:**
 - **Scope:**
@@ -35,42 +35,59 @@ Cloud Based To-Do List where users can access their List from anywhere at any ti
 
 ### 1. User Stories (Required and Optional)
 
-**Required Must-have Stories**
+#### **Required Must-have Stories**
 
 - User Log In
 - User Sign Up
-- Create To-Do List
-- Delete To-Do List
-- Create a To-Do List Item
-- Edit a To-Do List Item
-- Delete a To-Do List Item
-- Change status of To-Do List Item (Complete , In Progress, Pending )
+- User Logout
+- Keeps the user Loged In Until user logouts
+- To-Do List
+  - Edit To-Do List (Collaborator, Name, Description)
+  - Create To-Do List
+  - Delete To-Do List
+- To-Do List Item
+  - Create a To-Do List Item
+  - Edit a To-Do List Item
+  - Delete a To-Do List Item
+  - Change status of To-Do List Item (Complete , In Progress, Pending, Past Due )
 - Have Colaborative To-Do List where you can have multiple users be part of the same List
+- Set Date for To-Do List Item
+- Alert User Regarding Past Due Items on a List
 
-**Optional Nice-to-have Stories**
+#### **Optional Nice-to-have Stories**
 
-- Set time constraint for To-Do List Item
+- Set Notifications for Item that has time constraint associated with it
 - Create user permission page where the Admin can configure each collaborator permissions to View, Edit, or Delete
-- sdsds
+- Set Priority Level of each To-Do List Item
+- App comes with templates for different types of To-Do List
+- Create Widget from app to Phone Home Screen to preview a List
+- Associate Colors to a To-Do List Item Status ( Maybe Labels )
+- Notify Collaborators on the List when an update is made on the List
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- Log In Screen
+  - Sign Up Screen
+  - Possible Resset Password Screen
+- Profile Overlay with Profile Settings & Logout Option
+- Home Screen with all List
+- List View
+  - View to cretae List
+  - View to create item
+  - Modal to edit item
+  - View to edit list properties ( Change Name , Description , Theme )
 
 ### 3. Navigation
 
-**Tab Navigation** (Tab to Screen)
+#### **Tab Navigation**
 
-- [fill out your first tab]
-- [fill out your second tab]
-- [fill out your third tab]
+- Log In Screen
+- Home List View
+- List View
+- Compose Item View
+- Change Status View
 
-**Flow Navigation** (Screen to Screen)
+#### **Flow Navigation**
 
 - [list first screen here]
   - [list screen navigation here]
