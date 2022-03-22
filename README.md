@@ -101,7 +101,7 @@ Cloud Based To-Do List where users can access their List from anywhere at any ti
 <img src="https://i.imgur.com/Z0f9dPb.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
-<iframe src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FnsZzenoqzY7TGiLrCMoPP6%2FTo-Do-It-App%3Fnode-id%3D0%253A1" width=800 height=450>
+<iframe src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FnsZzenoqzY7TGiLrCMoPP6%2FTo-Do-It-App%3Fnode-id%3D0%253A1"></iframe>
 
 ### [BONUS] Interactive Prototype
 
