@@ -99,7 +99,7 @@ Cloud Based To-Do List where users can access their List from anywhere at any ti
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://i.imgur.com/Z0f9dPb.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
