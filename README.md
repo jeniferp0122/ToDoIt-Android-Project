@@ -112,10 +112,35 @@ https://www.figma.com/file/nsZzenoqzY7TGiLrCMoPP6/To-Do-It-App?node-id=0%3A1
 
 ### Models
 
-[Add table of models]
+![image](https://user-images.githubusercontent.com/89871568/160507852-f5753c8e-b69b-45b5-a76a-79f526331c7b.png)
+
 
 ### Networking
 
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+-	**Home Feed Screen**
+  -(Read/GET) Query all Lists where user has access
+  
+  -(Create/POST) Create a new list
+  
+  -(Delete) Delete existing list
+  
+  -(Read/GET) Get selected list.
+  
+- **List Screen**
+
+  -(Create/POST) Create a new list object
+  
+  -(Delete) Delete existing list object
+  
+  -(Update) Update existing list object (BOOLEAN)
+  
+  -(Read/GET) Get list of people able to view or edit the list
+  
+-	**User’s List**
+
+  -(Create/POST) Create a new user corresponding to an existing user_id with a role
+  
+  -(Delete) Delete existing user in list
+  
+  -(Update) Update the role of the user
+
