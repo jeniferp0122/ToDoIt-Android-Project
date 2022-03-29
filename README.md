@@ -118,6 +118,7 @@ https://www.figma.com/file/nsZzenoqzY7TGiLrCMoPP6/To-Do-It-App?node-id=0%3A1
 ### Networking
 
 -	**Home Feed Screen**
+
   -(Read/GET) Query all Lists where user has access
   
   -(Create/POST) Create a new list
@@ -125,7 +126,7 @@ https://www.figma.com/file/nsZzenoqzY7TGiLrCMoPP6/To-Do-It-App?node-id=0%3A1
   -(Delete) Delete existing list
   
   -(Read/GET) Get selected list.
-  
+
 - **List Screen**
 
   -(Create/POST) Create a new list object
