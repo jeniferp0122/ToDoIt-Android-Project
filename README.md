@@ -148,5 +148,6 @@ https://www.figma.com/file/nsZzenoqzY7TGiLrCMoPP6/To-Do-It-App?node-id=0%3A1
   
   # Progress
   
- ![Alt Text](https://submissions.us-east-1.linodeobjects.com/android_university/ukorK3A-.gif)
+![ukorK3A-](https://user-images.githubusercontent.com/90277853/161879938-15d749ac-27e5-47eb-8042-feb48bb59446.gif)
+
 
