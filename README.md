@@ -6,6 +6,7 @@
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
 2. [Schema](#Schema)
+3. [Progress](#Progress)
 
 ## Overview
 
@@ -144,4 +145,8 @@ https://www.figma.com/file/nsZzenoqzY7TGiLrCMoPP6/To-Do-It-App?node-id=0%3A1
   -(Delete) Delete existing user in list
   
   -(Update) Update the role of the user
+  
+  # Progress
+  
+ ![gif](https://submissions.us-east-1.linodeobjects.com/android_university/ukorK3A-.gif)
 
