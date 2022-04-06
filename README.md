@@ -39,21 +39,21 @@ Cloud Based To-Do List where users can access their List from anywhere at any ti
 #### **Required Must-have Stories**
 
 - [x] User Log In
-- [] User Sign Up
-- [] User Logout
-- Keeps the user Loged In Until user logouts
-- To-Do List
-  - Edit To-Do List (Collaborator, Name, Description)
-  - Create To-Do List
-  - Delete To-Do List
-- To-Do List Item
-  - Create a To-Do List Item
-  - Edit a To-Do List Item
-  - Delete a To-Do List Item
-  - Change status of To-Do List Item (Complete , In Progress, Pending, Past Due )
-- Have Colaborative To-Do List where you can have multiple users be part of the same List
-- Set Date for To-Do List Item
-- Alert User Regarding Past Due Items on a List
+- [ ] User Sign Up
+- [ ] User Logout
+- [ ] Keeps the user Loged In Until user logouts
+- [ ] To-Do List
+  - [ ] Edit To-Do List (Collaborator, Name, Description)
+  - [ ] Create To-Do List
+  - [ ] Delete To-Do List
+- [ ] To-Do List Item
+  - [ ] Create a To-Do List Item
+  - [ ] Edit a To-Do List Item
+  - [ ] Delete a To-Do List Item
+  - [ ] Change status of To-Do List Item (Complete , In Progress, Pending, Past Due )
+- [ ] Have Colaborative To-Do List where you can have multiple users be part of the same List
+- [ ] Set Date for To-Do List Item
+- [ ] Alert User Regarding Past Due Items on a List
 
 #### **Optional Nice-to-have Stories**
 
