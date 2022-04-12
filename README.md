@@ -39,7 +39,7 @@ Cloud Based To-Do List where users can access their List from anywhere at any ti
 #### **Required Must-have Stories**
 
 - [x] User Log In
-- [ ] User Sign Up
+- [X] User Sign Up
 - [ ] User Logout
 - [ ] Keeps the user Loged In Until user logouts
 - [ ] To-Do List
