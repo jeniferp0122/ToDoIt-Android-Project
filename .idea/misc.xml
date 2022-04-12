@@ -3,21 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout-v31/activity_main.xml" value="0.2898550724637681" />
-        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.25" />
-        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout-w1240dp/activity_sign_in.xml" value="0.5" />
-        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout-w936dp/activity_login.xml" value="0.5" />
-        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout/activity_login.xml" value="0.2773556231003039" />
-        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout/activity_sign_in.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/init_frame.xml" value="0.20364583333333333" />
         <entry key="app/src/main/res/drawable/login_butto.xml" value="0.20364583333333333" />
         <entry key="app/src/main/res/drawable/logo.xml" value="0.20364583333333333" />
         <entry key="app/src/main/res/drawable/signup_butt.xml" value="0.20364583333333333" />
+        <entry key="app/src/main/res/layout-v31/activity_main.xml" value="0.1651469098277609" />
+        <entry key="app/src/main/res/layout-w1240dp/activity_login.xml" value="0.145703125" />
+        <entry key="app/src/main/res/layout-w1240dp/activity_sign_up.xml" value="0.145703125" />
+        <entry key="app/src/main/res/layout-w936dp/activity_login.xml" value="0.12471308339709258" />
+        <entry key="app/src/main/res/layout-w936dp/activity_sign_up.xml" value="0.12471308339709258" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1651469098277609" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1651469098277609" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.1651469098277609" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>

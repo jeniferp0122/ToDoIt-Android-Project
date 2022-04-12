@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    compileSdk 26
 
     defaultConfig {
         applicationId "com.example.todoit"
