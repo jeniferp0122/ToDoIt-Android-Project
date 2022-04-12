@@ -150,4 +150,6 @@ https://www.figma.com/file/nsZzenoqzY7TGiLrCMoPP6/To-Do-It-App?node-id=0%3A1
   
 ![ukorK3A-](https://user-images.githubusercontent.com/90277853/161879938-15d749ac-27e5-47eb-8042-feb48bb59446.gif)
 
+<img src="https://github.com/ryanfreyre/Unit-1-Project-Flixster---Part-1/blob/main/GroupPorj.gif" width=250><br>
+
 
