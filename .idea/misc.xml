@@ -3,18 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout-v31/activity_main.xml" value="0.2898550724637681" />
+        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.25" />
+        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout-w1240dp/activity_sign_in.xml" value="0.5" />
+        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout-w936dp/activity_login.xml" value="0.5" />
+        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout/activity_login.xml" value="0.2773556231003039" />
+        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Downloads/Group-App-Project-HackMD/app/src/main/res/layout/activity_sign_in.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/init_frame.xml" value="0.20364583333333333" />
         <entry key="app/src/main/res/drawable/login_butto.xml" value="0.20364583333333333" />
         <entry key="app/src/main/res/drawable/logo.xml" value="0.20364583333333333" />
         <entry key="app/src/main/res/drawable/signup_butt.xml" value="0.20364583333333333" />
-=======
-        <entry key="..\:/Users/Group_App_Project/app/src/main/res/layout/activity_main.xml" value="0.5" />
->>>>>>> Stashed changes
-=======
-        <entry key="..\:/Users/Group_App_Project/app/src/main/res/layout/activity_main.xml" value="0.5" />
->>>>>>> Stashed changes
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1651469098277609" />
       </map>
     </option>
