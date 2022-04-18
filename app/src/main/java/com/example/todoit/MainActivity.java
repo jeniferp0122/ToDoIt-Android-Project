@@ -9,8 +9,6 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.parse.ParseObject;
-
 public class MainActivity extends AppCompatActivity {
 
     public static final String TAG = "MainActivity";
@@ -26,16 +24,6 @@ public class MainActivity extends AppCompatActivity {
 
         btnLogin = findViewById(R.id.btnLogin);
         btnSignUp = findViewById(R.id.btnSignUp);
-
-        ParseObject firstObject = new ParseObject("FirstClass");
-        firstObject.put("message","Hey ! First message from android. Parse is now connected");
-        firstObject.saveInBackground(e -> {
-            if (e != null){
-                Log.e("MainActivity", e.getLocalizedMessage());
-            }else{
-                Log.d("MainActivity","Object saved.");
-            }
-        });
 
         btnSignUp.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -56,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     private void goLoginActivity(){
+        Log.i(TAG , "Login was pressed");
         Intent i = new Intent(this, LoginActivity.class);
         startActivity(i);
         finish();
