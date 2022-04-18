@@ -10,7 +10,14 @@
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
     <string name="title_activity_sign_in">SignInActivity</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">V3f5cXcOO3KvIdLiUEDEXYHZX9Gj6yHQBsMRLfNM</string>
+    <string name="back4app_client_key">VOiZRShWF8GKbJrCv7cwJfuSAw1b5GgfCYsQnQGI</string>
     <string name="title_activity_scrolling">ScrollingActivity</string>
+
     <string name="large_text">
         "Material is the metaphor.\n\n"
 

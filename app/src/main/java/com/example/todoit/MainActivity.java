@@ -1,13 +1,15 @@
 package com.example.todoit;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.parse.ParseObject;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -25,6 +27,15 @@ public class MainActivity extends AppCompatActivity {
         btnLogin = findViewById(R.id.btnLogin);
         btnSignUp = findViewById(R.id.btnSignUp);
 
+        ParseObject firstObject = new ParseObject("FirstClass");
+        firstObject.put("message","Hey ! First message from android. Parse is now connected");
+        firstObject.saveInBackground(e -> {
+            if (e != null){
+                Log.e("MainActivity", e.getLocalizedMessage());
+            }else{
+                Log.d("MainActivity","Object saved.");
+            }
+        });
 
         btnSignUp.setOnClickListener(new View.OnClickListener() {
             @Override
