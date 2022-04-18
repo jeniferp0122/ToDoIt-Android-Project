@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ToDoIt">
         <activity
+            android:name=".ScrollingActivity"
+            android:exported="false"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/Theme.ToDoIt.NoActionBar" />
+        <activity
             android:name=".SignupActivity"
             android:exported="false"
             android:label="@string/title_activity_sign_in" />
